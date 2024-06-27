@@ -14,3 +14,9 @@ Set availability status ("Available," "Not Available," "On Hold") with customiza
 Inform students of expected wait times or unavailability.
 Accept and decline queues.
 QueueEase addresses inefficiencies in traditional consultation methods, ensuring a more organized and efficient process for both students and faculty.
+
+![image](https://github.com/DevKiane/backend-qeue-ease/assets/157268713/df66d16e-e1c3-4124-8755-95a62e9f810b)
+![image](https://github.com/DevKiane/backend-qeue-ease/assets/157268713/88fb67e0-c7a5-4d25-9ac0-e4e5f8861a54)
+![image](https://github.com/DevKiane/backend-qeue-ease/assets/157268713/07f7d7dc-b789-4493-8411-58645f0afc02)
+![image](https://github.com/DevKiane/backend-qeue-ease/assets/157268713/35785e74-bf8c-48d2-9546-32b8f80b41f2)
+![image](https://github.com/DevKiane/backend-qeue-ease/assets/157268713/25e95219-a0ab-4408-992b-d2625163c151)
